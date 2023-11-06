@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/divyansh9521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyansh9521" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divyanshu ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu ranjan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/divyanshu-ranjan-431812290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu ranjan" height="30" width="40" /></a>
 <a href="https://instagram.com/divyansh9521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyansh9521" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/divyansh9521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divyansh9521" height="30" width="40" /></a>
 </p>
